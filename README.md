@@ -3,3 +3,4 @@
 🌱 Desenvolvimento Back End
 💞️ Projetos
 📫 E-mail> diogo.informaticaweb@gmail.com
+Estudo para aprender a desenvolver
